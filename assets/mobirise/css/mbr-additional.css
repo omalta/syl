@@ -1,9 +1,63 @@
 #menu-h .navbar-toggler {
-  color: #000;
+  color: #000000;
 }
-#menu-h .navbar-brand {
-  font-size: 23px;
+#msg-box5-p .mbr-section-title B {
+  text-align: left;
+  color: #ffffff;
 }
-#social-buttons2-7 .mbr-section-title {
+#msg-box5-p .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box4-15 .lead P {
+  text-align: left;
+  color: #000000;
+}
+#msg-box4-15 .mbr-section-title B {
+  font-size: 32px;
+  text-align: left;
+}
+#msg-box1-o H2 {
+  text-align: center;
+}
+#msg-box1-o B {
+  color: #000000;
+  font-size: 36px;
+}
+#features1-10 DIV {
+  font-size: 17px;
+  text-align: left;
+}
+#features1-10 H4 {
+  font-size: 17px;
+  text-align: right;
+}
+#msg-box5-r .lead P {
+  text-align: left;
+  color: #ffffff;
+}
+#msg-box5-r .mbr-section-title {
+  text-align: left;
+  font-size: 32px;
+}
+#msg-box5-r .mbr-section-title B {
+  color: #ffffff;
+  font-size: 32px;
+}
+#msg-box1-1m .btn {
+  font-size: 25px;
+}
+#msg-box1-1m P {
+  font-size: 24px;
+}
+#content5-1n .mbr-section-title {
+  color: #ffffff;
+}
+#content5-1n P {
+  color: #ffffff;
+}
+#testimonials1-y .mbr-section-title {
+  color: #ffffff;
+}
+#form1-18 .mbr-section-title {
   color: #ffffff;
 }
